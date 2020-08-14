@@ -1,0 +1,13 @@
+E:\Repos\iConsole\bin\Debug\netcoreapp3.1\iConsole.exe
+E:\Repos\iConsole\bin\Debug\netcoreapp3.1\iConsole.deps.json
+E:\Repos\iConsole\bin\Debug\netcoreapp3.1\iConsole.runtimeconfig.json
+E:\Repos\iConsole\bin\Debug\netcoreapp3.1\iConsole.runtimeconfig.dev.json
+E:\Repos\iConsole\bin\Debug\netcoreapp3.1\iConsole.dll
+E:\Repos\iConsole\bin\Debug\netcoreapp3.1\iConsole.pdb
+E:\Repos\iConsole\obj\Debug\netcoreapp3.1\iConsole.csprojAssemblyReference.cache
+E:\Repos\iConsole\obj\Debug\netcoreapp3.1\iConsole.AssemblyInfoInputs.cache
+E:\Repos\iConsole\obj\Debug\netcoreapp3.1\iConsole.AssemblyInfo.cs
+E:\Repos\iConsole\obj\Debug\netcoreapp3.1\iConsole.csproj.CoreCompileInputs.cache
+E:\Repos\iConsole\obj\Debug\netcoreapp3.1\iConsole.dll
+E:\Repos\iConsole\obj\Debug\netcoreapp3.1\iConsole.pdb
+E:\Repos\iConsole\obj\Debug\netcoreapp3.1\iConsole.genruntimeconfig.cache
